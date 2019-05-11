@@ -1,0 +1,10 @@
+[
+  {
+    "name": "M5_NightscoutMon for 4MB flash",
+    "version": "v1.0.0",
+    "path": "M5_NightscoutMon",
+    "commands": [
+      "--chip esp32 --port %port --baud %baud --before default_reset --after hard_reset write_flash -z --flash_freq 40m 0x1000 %PATH\\bootloader_0x1000.bin 0x10000 %PATH\\M5_NightscoutMon.ino.bin 0x8000 %PATH\\M5_NightscoutMon.ino.partitions.bin"
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+v0.1.2 updates:
+1.Add UNIT_THERMAL_V0.1 firmware
+---------------------------------------
+v0.1.1 updates:
+1.Add M5Flow v0.8.0 firmware
+---------------------------------------
+v0.1.0 updates:
+1.Add M5Flow v0.7.2 firmware
+---------------------------------------
+v0.0.9 updates:
+1.Add M5Flow v0.7.0 firmware
+---------------------------------------
+v0.0.8 updates:
+1.Add M5Flow v0.6 firmware
+---------------------------------------
+v0.0.7 updates:
+1.Add M5Flow v0.5 firmware
+---------------------------------------
+v0.0.6 updates:
+1.Add M5Flow v0.4 firmware
+---------------------------------------
+v0.0.4 updates:
+1.Add M5Fire psram test firmware
+2."esptool.exe" update to v2.5.0
